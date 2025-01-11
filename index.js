@@ -1,4 +1,4 @@
-import axios from 'axios';
+
 import * as Carousel from './Carousel.js';
 // You have axios, you don't need to import it
 console.log(axios);
@@ -302,6 +302,8 @@ export async function favourite(imgId) {
  *    If that isn't in its own function, maybe it should be so you don't have to
  *    repeat yourself in this section.
  */
+
+
 
 /**
  * 10. Test your site, thoroughly!
